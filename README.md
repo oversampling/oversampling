@@ -20,10 +20,10 @@
    * This is budget management web application. This project use React to develop the front-end.
 
 #### Other
-<a href="https://github.com/anuraghazra/github-readme-stats" style="display:flex;justify-content: space-between;align-items: start;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan1992241&show_icons=true&theme=dark&layout=compact" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chan1992241&show_icons=true&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display:flex;justify-content:space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan1992241&theme=dark&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chan1992241&show_icons=true&theme=dark" />
 </a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chan1992241) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jin-yee-chan-b45080226/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/chan1992241) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jin-yee-chan-b45080226/)  
