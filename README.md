@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Hi 👋, I am JY Chan</h1>
-<h3 style="text-align: center;">I like to develop cool stuff</h3>
+<h1 align="center">Hi 👋, I am JY Chan</h1>
+<h3 align="center">I like to develop cool stuff</h3>
 
 ---
 
