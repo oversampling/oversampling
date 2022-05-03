@@ -21,7 +21,7 @@
 2. ##### [Cryptool](https://github.com/chan1992241/Cryptool.git)
    * This is android password manager application. This project use SQLite to store data and there are several security measure had been implemented like hash data and encryption.
 #### Other
-<a href="https://github.com/anuraghazra/github-readme-stats" >
+<a href="#" >
     <img src="https://github-readme-stats.vercel.app/api?username=chan1992241&show_icons=true&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan1992241&theme=dark&layout=compact" />
 </a>
