@@ -19,7 +19,7 @@
    > This application is published to [Huawei App Gallery](https://appgallery.huawei.com/app/C105867369)
    * This is android application that allow student to make appointment with lecturer. This application used android studio as client while use mongodb and express as backend.
 2. ##### [Cryptool](https://github.com/chan1992241/Cryptool.git)
-3. > This application is published to [Huawei App Gallery](https://appgallery.huawei.com/app/C106088469)
+   > This application is published to [Huawei App Gallery](https://appgallery.huawei.com/app/C106088469)
    * This is android password manager application. This project use SQLite to store data and there are several security measure had been implemented like hash data and encryption.
 #### Other
 <a href="#" >
