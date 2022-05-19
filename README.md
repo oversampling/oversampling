@@ -11,8 +11,8 @@
    * This is project for campground rental. This project priority in back-end design implementation like security measure, database design, MVC model etc.  
 3. ##### [MS Team Class Attender](https://github.com/chan1992241/MS_team_class_attender.git)
    * This is project that automatically attend class in Microsoft Team. This project use selenium to automate task. This way to implement this project is terrible since I use loop to wait until check is the time.
-4. ##### [Ebudget](https://github.com/chan1992241/Ebudget.git)
-   * This is budget management web application. This project use React to develop the front-end.
+4. ##### [Ebudget](https://github.com/chan1992241/ebudget.git)
+   * This is budget management web application. This project use react typescript and react bootstrap in front end while using python flask and postgresql as backend.
 
 #### Android Development
 1. ##### [BookNow](https://github.com/chan1992241/BookNow.git)
