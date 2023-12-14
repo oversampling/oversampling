@@ -46,18 +46,16 @@ Sunday                   164 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   1 hr 5 mins         █████████████████████████   98.90 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TaxtDetection            1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +71,5 @@ Python                   3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 13/12/2023 12:13:06 UTC
+ Last Updated on 14/12/2023 12:13:01 UTC
 <!--END_SECTION:waka-->
