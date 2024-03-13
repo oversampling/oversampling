@@ -46,16 +46,20 @@ Sunday                   165 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     48 mins             ███████████████████░░░░░░   74.01 % 
+Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+docker-development-youtub1 hr 3 mins         ████████████████████████░   96.76 % 
+Algorint                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +75,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2024 12:12:02 UTC
+ Last Updated on 13/03/2024 12:13:00 UTC
 <!--END_SECTION:waka-->
