@@ -1,7 +1,7 @@
 <h1>Hi 👋</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,5 +75,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2024 12:13:42 UTC
+ Last Updated on 15/03/2024 12:12:08 UTC
 <!--END_SECTION:waka-->
