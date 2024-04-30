@@ -46,16 +46,18 @@ Sunday                   191 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     0 secs              █████████████████░░░░░░░░   69.21 % 
+Other                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+C#                       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+likecard-demo            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +73,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2024 12:13:42 UTC
+ Last Updated on 30/04/2024 12:11:52 UTC
 <!--END_SECTION:waka-->
