@@ -1,7 +1,7 @@
 <h1>Hi 👋</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,16 +46,18 @@ Sunday                   211 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 47 mins             ██████████████░░░░░░░░░░░   57.25 % 
+Terraform                35 mins             ███████████░░░░░░░░░░░░░░   42.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Superuser                1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +73,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2024 12:05:44 UTC
+ Last Updated on 09/12/2024 12:05:29 UTC
 <!--END_SECTION:waka-->
